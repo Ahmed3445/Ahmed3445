@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed3445
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning email development
+- 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on  ...
 - 📫 How to reach me ahmedmustafaweb@gmail.com
 
